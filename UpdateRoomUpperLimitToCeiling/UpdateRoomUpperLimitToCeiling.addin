@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>UpdateRoomUpperLimitToCeiling - Command 1</Text>
+    <Description>Some description for UpdateRoomUpperLimitToCeiling</Description>
+    <Assembly>UpdateRoomUpperLimitToCeiling.dll</Assembly>
+    <FullClassName>UpdateRoomUpperLimitToCeiling.Command1</FullClassName>
+    <ClientId>9e8c230f-ae5f-4f34-9147-a90f8706bdcc</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>UpdateRoomUpperLimitToCeiling - Command 2</Text>
+    <Description>Some description for UpdateRoomUpperLimitToCeiling</Description>
+    <Assembly>UpdateRoomUpperLimitToCeiling.dll</Assembly>
+    <FullClassName>UpdateRoomUpperLimitToCeiling.Command2</FullClassName>
+    <ClientId>766120cb-aa0d-43d6-90be-7bfa2422b5a6</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>UpdateRoomUpperLimitToCeiling</Name>
+    <Assembly>UpdateRoomUpperLimitToCeiling.dll</Assembly>
+    <FullClassName>UpdateRoomUpperLimitToCeiling.App</FullClassName>
+    <ClientId>d4be1452-03a2-4a6d-bc05-bf6a96f35ca0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
